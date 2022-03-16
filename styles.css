@@ -1,0 +1,19 @@
+.myrows{
+    border: 3px solid darkgreen;
+    padding: 5px;
+}
+.mycols{
+    border: 3px solid red;
+}
+.mycontainer{
+    background-color: cyan !important;
+}
+#topHeader{
+    background-color: aliceblue;
+    border-bottom: 1px solid grey;
+}
+#topHeader a{
+    color: rgb(29, 1, 1);
+    font-weight: bold;
+    font-size: 0.88rem;
+}
