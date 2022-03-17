@@ -17,3 +17,7 @@
     font-weight: bold;
     font-size: 0.88rem;
 }
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
