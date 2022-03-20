@@ -21,3 +21,19 @@
     padding-left: 0;
     padding-right: 0;
 }
+
+/* Footer Start */
+.full-footer{
+    background-color: #182C61
+}
+.top-footer p{
+    color: white;
+}
+.top-footer h3{
+    color: white;
+}
+.full-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
