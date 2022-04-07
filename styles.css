@@ -24,7 +24,7 @@
 
 /* Footer Start */
 .full-footer{
-    background-color: #182C61
+    background-color: #838fb0;
 }
 .top-footer p{
     color: white;
@@ -32,8 +32,20 @@
 .top-footer h3{
     color: white;
 }
+.top-footer a{
+    color: rgb(26, 25, 25);
+}
 .full-footer {
-    position: absolute;
+    
     bottom: 0;
     width: 100%;
 }
+
+/* Footer end */
+
+/* Home Page Start */
+.section-cls{
+    background-color: #c76e73;
+    color: white;
+}
+/* Home Page end */
