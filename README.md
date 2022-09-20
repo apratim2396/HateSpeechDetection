@@ -1,2 +1,7 @@
 # HateSpeechDetection
- 
+ This is a program which will used to filer various comments and tweets on social media sites in which we will be taking the help of machine learning. We will be taking the help of various libraries likes sklearn,NumPy,Pandas for the proper functioning of this model. We will primarily be taking the help of  tweet pre-processor. When we build a machine learning system based on tweet data, we always need a pre processor.This library makes it easier to clean,parse and tokenize the tweets.We will also be using Support Vector Machine. 
+
+Due to the societal concern and how widespread hate speech is becoming on the Internet [7, there is strong motivation to study automatic detection of hate speech. By automating its detection, the spread of hateful content can be reduced.
+
+As online content continues to grow, so does the spread of hate speech. We identify and examine challenges faced by online automatic approaches for hate speech detection in text. Among these difficulties are subtleties in language, differing definitions on what constitutes hate speech, and limitations of data availability for training and testing of these systems. Furthermore, many recent approaches suffer from an interpretability problem—that is, it can be difficult to understand why the systems make the decisions that they do. We propose a multi-view SVM approach that achieves near state-of-the-art performance, while being simpler and producing more easily interpretable decisions than neural methods. We also discuss both technical and practical challenges that remain for this task 
+
